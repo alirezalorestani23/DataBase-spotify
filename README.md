@@ -16,6 +16,6 @@ project written by php and it uses SQL for it's database.
 > and you need [postman](https://learning.postman.com/docs/getting-started/installation-and-updates/) to call the APIs.
 
 
-## here you can see list of apis and they usage
+## APIs
 
-[Intro.pdf](https://github.com/alirezalorestani23/spotify/blob/master/spotify-apis.pdf)
+[here you can see all APIs and their usage](https://github.com/alirezalorestani23/spotify/blob/master/spotify-apis.pdf)
