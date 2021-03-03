@@ -15,3 +15,7 @@ project written by php and it uses SQL for it's database.
 > you'll need [xampp](https://www.apachefriends.org/download.html) to run the php server.  
 > and you need [postman](https://learning.postman.com/docs/getting-started/installation-and-updates/) to call the APIs.
 
+
+## here you can see list of apis and they usage
+
+[Intro.pdf](https://github.com/alirezalorestani23/spotify/blob/master/spotify-apis.pdf)
